@@ -12,5 +12,4 @@ le système d'exploitation est indépendant à l'hardware.
 ```
 # Qu'est-ce qu'un noyau ?
 
-Le noyau(kernel) permet de faire comuniquer  la partie matériel avec les logiciel.
-# Pourquoi développer un OS ?
+Le noyau (kernel)  sert à gérer les ressources d'un ordinateur et faciliter la communication entre les matériels et les logiciels de l'ordinateur.
